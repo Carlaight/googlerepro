@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #salut oh! toi grand correcteur
 #voici mon readme du jour 2 de thp session 7
 #
@@ -10,7 +9,7 @@
 #réponse bcp bcp plus bas
 #
 #liens de mon site sur github.page
-#https://dendiflet.github.io/googleclone
+#https://carlaight.github.io/googlerepro/
 #
 #
 #
