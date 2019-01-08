@@ -94,6 +94,17 @@ section
     box-shadow: #757575;
 }
 
+.recherche input {
+    font-size: 18px;
+    min-width: 560px;
+    min-height: 39px;
+    padding: 5px 8px 0 16px;
+    border: 1px solid rgba(0,0,0,0.30);
+    border-radius: 3px;
+    outline: none;
+    box-shadow: 1px 1px 1px lightgrey;
+}
+
 .bouton
 {
     
