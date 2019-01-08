@@ -101,7 +101,6 @@ section
     line-height: 27px;
     border-radius: 2px;
     color: rgba(117,117,127,1);
-    cursor: default;
     font-family: arial,sans-serif;
     font-size: 13px;
     font-weight: bold;
@@ -125,6 +124,7 @@ section
 	border-radius:2px;
     box-shadow:1px 1px 3px #aaa;
     color: rgba(117,117,127,1);
+    cursor: default;
 }
 
 .bouton2
@@ -135,6 +135,7 @@ section
 	padding:6px 0 6px 0;
 	border-radius:2px;
     box-shadow:1px 1px 3px #aaa;
+    cursor: default;
 }
 
 .footerpays
