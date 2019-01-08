@@ -8,7 +8,7 @@ l'équipe qui a produit ce clone de google est : charles et iannis
 qu'es-ce que deux citrouille dans un champ de maïs?
 réponse bcp bcp plus bas
 
-liens de mon site sur github.page
+liens du site hebergé sur github.page
 https://carlaight.github.io/googlerepro/
 
 =======
